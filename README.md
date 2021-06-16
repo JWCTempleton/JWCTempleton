@@ -1,4 +1,4 @@
-- My online portfolio hosted on Netlify: https://blissful-lovelace-290c0d.netlify.app/
+- My online portfolio hosted on Netlify: https://jwctempleton.netlify.app/
 
 - 👋 Hi, I’m @JWCTempleton
 - 👀 I’m interested in becoming a full stack web developer.
